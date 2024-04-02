@@ -1,7 +1,6 @@
 version: "3.8"
 
 services:
-
   localstack:
     build:
       context: ./docker/localstack/
@@ -154,3 +153,4 @@ services:
     command: run-indexing-service
     depends_on:
       - pyramid
+      
