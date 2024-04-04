@@ -1,18 +1,5 @@
 [
     {
-        "email": "parulbioinf@gmail.com",
-        "first_name": "Parul",
-        "last_name": "Kudtarkar",
-        "lab": "/labs/j-michael-cherry/",
-        "job_title": "Programmer",
-        "status": "current",
-        "groups": [
-            "admin",
-            "verified"
-        ],
-        "uuid": "5e3038c4-baa5-4589-b3d8-ad2fe634e826"
-    },
-    {
         "email": "khzlin@stanford.edu",
         "first_name": "Khine",
         "last_name": "Lin",
@@ -771,43 +758,7 @@
         "uuid": "998cb70b-623f-41ba-a970-59e7d3ea9be2"
     },
     {
-        "email": "hannah@email_domain.com",
-        "first_name": "Hannah",
-        "last_name": "Carter",
-        "lab": "/labs/hannah-carter/",
-        "viewing_groups": [
-            "IGVF"
-        ],
-        "job_title": "Principal Investigator",
-        "groups": [
-            "verified"
-        ],
-        "submits_for": [
-            "/labs/hannah-carter/"
-        ],
-        "status": "current",
-        "uuid": "8f8e597c-aa6f-444a-ae2b-8ca9820bbb51"
-    },
-    {
-        "email": "bing@email_domain.com",
-        "first_name": "Bing",
-        "last_name": "Ren",
-        "lab": "/labs/bing-ren/",
-        "viewing_groups": [
-            "IGVF"
-        ],
-        "job_title": "Principal Investigator",
-        "groups": [
-            "verified"
-        ],
-        "submits_for": [
-            "/labs/bing-ren/"
-        ],
-        "status": "current",
-        "uuid": "6814ebcb-a591-480d-ae69-0bf5ef2a2e93"
-    },
-    {
-        "email": "kyle@email_domain.com",
+        "email": "kgaulton@health.ucsd.edu",
         "first_name": "Kyle",
         "last_name": "Gaulton",
         "lab": "/labs/kyle-gaulton/",
@@ -822,25 +773,7 @@
             "/labs/kyle-gaulton/"
         ],
         "status": "current",
-        "uuid": "3ac39feb-d609-4f9f-ae15-250a7f165900"
-    },
-    {
-        "email": "maike@email_domain.com",
-        "first_name": "Maike",
-        "last_name": "Sander",
-        "lab": "/labs/maike-sander/",
-        "viewing_groups": [
-            "IGVF"
-        ],
-        "job_title": "Principal Investigator",
-        "groups": [
-            "verified"
-        ],
-        "submits_for": [
-            "/labs/maike-sander/"
-        ],
-        "status": "current",
-        "uuid": "7d37a9ba-4a13-4b7e-a34d-d3ac13f62442"
+        "uuid": "6814ebcb-a591-480d-ae69-0bf5ef2a2e93"
     },
     {
         "email": "charles@email_domain.com",
@@ -1741,17 +1674,17 @@
         "uuid": "14a6d92a-c4e3-11ec-9d64-0242ac120002"
     },
     {
-        "email": "cypress-testing@example.com",
-        "first_name": "Cypress",
-        "last_name": "Testing",
-        "lab": "/labs/j-michael-cherry/",
+        "email": "pkudtarkar@health.ucsd.edu",
+        "first_name": "Parul",
+        "last_name": "Kudtarkar",
+        "lab": "/labs/kyle-gaulton/",
         "job_title": "Software Developer",
         "groups": [
             "admin",
             "verified"
         ],
         "submits_for": [
-            "/labs/j-michael-cherry/"
+            "/labs/kyle-gaulton/"
         ],
         "status": "current",
         "uuid": "4a63f82a-2e25-4790-bfcc-d183f8ca8869"

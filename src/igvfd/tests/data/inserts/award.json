@@ -309,15 +309,15 @@
         "component": "predictive modeling"
     },
     {
-        "name": "1U01HG012064-01",
-        "project": "IGVF",
-        "title": "Predictive Modeling of the Functional and Phenotypic Impacts of Genetic Variants",
+        "name": "PanKBase",
+        "project": "PanKBase",
+        "title": "A Data and Administrative Coordinating Center for the Pancreas Knowledgebase Program (HIRN-PanKbase)",
         "viewing_group": "IGVF",
         "status": "current",
-        "component": "predictive modeling",
+        "component": "data coordination",
         "pis": [
-            "b45be2ff-771e-4cbb-9c6b-74ece357ca7b"
+            "6814ebcb-a591-480d-ae69-0bf5ef2a2e93"
         ],
-        "contact_pi": "b45be2ff-771e-4cbb-9c6b-74ece357ca7b"
+        "contact_pi": "6814ebcb-a591-480d-ae69-0bf5ef2a2e93"
     }
 ]

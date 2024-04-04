@@ -210,46 +210,10 @@
         "pi": "998cb70b-623f-41ba-a970-59e7d3ea9be2"
     },
     {
-        "awards": [
-            "HG012059"
-        ],
-        "institute_label": "UCSD",
-        "name": "hannah-carter",
-        "uuid": "45f3c7b5-54b3-4ebc-b8d9-9030c003530e",
-        "pi": "8f8e597c-aa6f-444a-ae2b-8ca9820bbb51"
-    },
-    {
-        "awards": [
-            "HG012059"
-        ],
-        "institute_label": "UCSD",
-        "name": "bing-ren",
-        "uuid": "0e3f90ba-c6e8-4e77-b0f3-e41b74b0a463",
-        "pi": "6814ebcb-a591-480d-ae69-0bf5ef2a2e93"
-    },
-    {
-        "awards": [
-            "HG012059"
-        ],
         "institute_label": "UCSD",
         "name": "kyle-gaulton",
-        "uuid": "12b96f88-122d-4324-8726-052c0271e79b",
-        "pi": "3ac39feb-d609-4f9f-ae15-250a7f165900"
-    },
-    {
-        "awards": [
-            "HG012059"
-        ],
-        "institute_label": "UCSD",
-        "name": "maike-sander",
-        "uuid": "cce347cd-627f-43ca-a40f-e96c658fa46e",
-        "pi": "7d37a9ba-4a13-4b7e-a34d-d3ac13f62442"
-    },
-    {
-        "institute_label": "Duke",
-        "name": "charles-gersbach",
         "uuid": "1d83804c-9ddc-4f4c-8276-8fa2b007e081",
-        "pi": "7622ee95-b60d-4fd4-9910-3405c7cceb6f"
+        "pi": "6814ebcb-a591-480d-ae69-0bf5ef2a2e93"
     },
     {
         "awards": [
