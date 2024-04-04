@@ -1,32 +1,15 @@
 [
     {
-        "aliases": [
-            "igvf:basic_measurement_set"
-        ],
-        "submitter_comment": "Comment for a measurement set.",
-        "description": "A basic measurement set.",
-        "award": "HG012012",
-        "lab": "j-michael-cherry",
-        "documents": [
-            "igvf:Antibody_characterization_standards_IGVF"
-        ],
+        "description": "single-nuclei ATAC-seq",
+        "award": "RFA-DK-22-018",
+        "lab": "kyle-gaulton",
         "status": "released",
-        "release_timestamp": "2024-03-06T12:34:56Z",
+        "release_timestamp": "2024-04-03T12:34:56Z",
         "uuid": "67380d9f-06da-f9fe-9569-d31ce0607eae",
         "samples": [
-            "igvf:treated_tissue"
+            "igvf:alias10"
         ],
-        "assay_term": "igvf:starr-seq",
-        "protocols": [
-            "https://www.protocols.io/test-protocols-url-12345"
-        ],
-        "dbxrefs": [
-            "GEO:GSE187549"
-        ],
-        "library_construction_platform": "9ed48993-8f87-f432-42ac-c34a0f5caa20",
-        "auxiliary_sets": [
-            "IGVFDS0001AUXI"
-        ],
+        "assay_term": "igvf:snATAC-seq",
         "accession": "IGVFDS0000MSET",
         "file_set_type": "experimental data"
     },
@@ -34,8 +17,8 @@
         "aliases": [
             "igvf:multiome_scatac_seq"
         ],
-        "award": "1U01HG012051-01",
-        "lab": "danwei-huangfu",
+        "award": "RFA-DK-22-018",
+        "lab": "kyle-gaulton",
         "status": "released",
         "release_timestamp": "2024-03-06T12:34:56Z",
         "uuid": "7dd534f7-4349-4485-bc7a-4b7038a55588",
@@ -51,8 +34,8 @@
         "aliases": [
             "igvf:multiome_scrna_seq"
         ],
-        "award": "1U01HG012051-01",
-        "lab": "danwei-huangfu",
+        "award": "RFA-DK-22-018",
+        "lab": "kyle-gaulton",
         "status": "released",
         "release_timestamp": "2024-03-06T12:34:56Z",
         "uuid": "e78a8e0f-537f-4c3c-8741-db6ae4a8f986",
@@ -68,8 +51,8 @@
         "aliases": [
             "lior-pachter:share_seq"
         ],
-        "award": "1UM1HG012077-01",
-        "lab": "lior-pachter",
+        "award": "RFA-DK-22-018",
+        "lab": "kyle-gaulton",
         "status": "released",
         "release_timestamp": "2024-03-06T12:34:56Z",
         "uuid": "06893264-0d44-4fa8-bb3d-924fcdaed346",
@@ -91,8 +74,8 @@
         "aliases": [
             "igvf:lentiMPRA"
         ],
-        "award": "1U01HG012051-01",
-        "lab": "danwei-huangfu",
+        "award": "RFA-DK-22-018",
+        "lab": "kyle-gaulton",
         "status": "released",
         "release_timestamp": "2024-03-06T12:34:56Z",
         "uuid": "0707e33c-4fbe-4965-9d8c-196f1ff7f047",
@@ -108,8 +91,8 @@
         "aliases": [
             "igvf:mN2H"
         ],
-        "award": "1U01HG012051-01",
-        "lab": "danwei-huangfu",
+        "award": "RFA-DK-22-018",
+        "lab": "kyle-gaulton",
         "status": "released",
         "release_timestamp": "2024-03-06T12:34:56Z",
         "uuid": "cd5a15a7-8e33-4e41-86b9-8ccc0d508bcd",
@@ -124,8 +107,8 @@
         "aliases": [
             "igvf:scQer"
         ],
-        "award": "1U01HG012051-01",
-        "lab": "danwei-huangfu",
+        "award": "RFA-DK-22-018",
+        "lab": "kyle-gaulton",
         "status": "released",
         "release_timestamp": "2024-03-06T12:34:56Z",
         "uuid": "826c046f-5c06-430b-856c-7c0aefc3c70a",
@@ -141,8 +124,8 @@
         "aliases": [
             "igvf:parse_split_seq"
         ],
-        "award": "1UM1HG012077-01",
-        "lab": "ali-mortazavi",
+        "award": "RFA-DK-22-018",
+        "lab": "kyle-gaulton",
         "status": "released",
         "release_timestamp": "2024-03-06T12:34:56Z",
         "uuid": "ec4b039c-5c06-11fd-856c-7c09f6bfffb9",
@@ -157,8 +140,8 @@
         "aliases": [
             "igvf:multiome_multi-seq_scatac_seq"
         ],
-        "award": "1U01HG012051-01",
-        "lab": "danwei-huangfu",
+        "award": "RFA-DK-22-018",
+        "lab": "kyle-gaulton",
         "status": "released",
         "release_timestamp": "2024-03-06T12:34:56Z",
         "uuid": "2c2e2b40-ada6-4a8b-8be0-e0e84c42d8ad",
@@ -173,8 +156,8 @@
         "aliases": [
             "igvf:multiome_snMCT-seq"
         ],
-        "award": "1U01HG012051-01",
-        "lab": "danwei-huangfu",
+        "award": "RFA-DK-22-018",
+        "lab": "kyle-gaulton",
         "status": "released",
         "release_timestamp": "2024-03-06T12:34:56Z",
         "uuid": "c2c9896e-73e8-4f0c-a914-1f71b9b5553b",
@@ -189,8 +172,8 @@
         "aliases": [
             "igvf:SUPERSTARR"
         ],
-        "award": "1UM1HG012053-01",
-        "lab": "/labs/tim-reddy/",
+        "award": "RFA-DK-22-018",
+        "lab": "kyle-gaulton",
         "status": "released",
         "release_timestamp": "2024-03-06T12:34:56Z",
         "uuid": "bb40e507-93cb-4ba6-b0b2-fd73e4ba1736",
@@ -205,8 +188,8 @@
         "aliases": [
             "igvf:CERES-seq"
         ],
-        "award": "1UM1HG012053-01",
-        "lab": "/labs/tim-reddy/",
+        "award": "RFA-DK-22-018",
+        "lab": "kyle-gaulton",
         "status": "released",
         "release_timestamp": "2024-03-06T12:34:56Z",
         "uuid": "3f757230-b466-4da8-bae7-9a6f3c5ee290",
@@ -221,8 +204,8 @@
         "aliases": [
             "igvf:variant FlowFISH"
         ],
-        "award": "1UM1HG011972-01",
-        "lab": "/labs/jesse-engreitz/",
+        "award": "RFA-DK-22-018",
+        "lab": "kyle-gaulton",
         "status": "released",
         "release_timestamp": "2024-03-06T12:34:56Z",
         "uuid": "185b7ca8-e741-4ffe-96af-4b91c13428b4",
@@ -237,8 +220,8 @@
         "aliases": [
             "igvf:snM3C-seq"
         ],
-        "award": "1U01HG012051-01",
-        "lab": "danwei-huangfu",
+        "award": "RFA-DK-22-018",
+        "lab": "kyle-gaulton",
         "status": "released",
         "release_timestamp": "2024-03-06T12:34:56Z",
         "uuid": "4d4cabaa-617d-47bb-857b-66e4347de8d1",
@@ -256,8 +239,8 @@
         "aliases": [
             "igvf:RNA-seq"
         ],
-        "award": "1U01HG012051-01",
-        "lab": "danwei-huangfu",
+        "award": "RFA-DK-22-018",
+        "lab": "kyle-gaulton",
         "status": "released",
         "release_timestamp": "2024-03-06T12:34:56Z",
         "uuid": "75762345-c2a7-4b97-832d-731bd060d434",
@@ -272,8 +255,8 @@
         "aliases": [
             "igvf:scATAC-seq"
         ],
-        "award": "1U01HG012051-01",
-        "lab": "danwei-huangfu",
+        "award": "RFA-DK-22-018",
+        "lab": "kyle-gaulton",
         "status": "released",
         "release_timestamp": "2024-03-06T12:34:56Z",
         "uuid": "9a721e59-98d4-4e10-8244-f08d835cf04f",
@@ -282,38 +265,6 @@
         ],
         "assay_term": "/assay-terms/OBI_0002764/",
         "preferred_assay_title": "scATAC-seq",
-        "file_set_type": "experimental data"
-    },
-    {
-        "aliases": [
-            "igvf:scRNA-seq"
-        ],
-        "award": "1U01HG012051-01",
-        "lab": "danwei-huangfu",
-        "status": "released",
-        "release_timestamp": "2024-03-06T12:34:56Z",
-        "uuid": "ac11b2d1-0313-437b-8486-82d0edc1f081",
-        "samples": [
-            "igvf:alias10"
-        ],
-        "assay_term": "/assay-terms/OBI_0002631/",
-        "preferred_assay_title": "scRNA-seq",
-        "file_set_type": "experimental data"
-    },
-    {
-        "aliases": [
-            "igvf:MPRA"
-        ],
-        "award": "1U01HG012051-01",
-        "lab": "danwei-huangfu",
-        "status": "released",
-        "release_timestamp": "2024-03-06T12:34:56Z",
-        "uuid": "557c36d8-b67d-42b7-9a34-77f075e9a59b",
-        "samples": [
-            "igvf:alias10"
-        ],
-        "assay_term": "/assay-terms/OBI_0002675/",
-        "preferred_assay_title": "MPRA",
         "file_set_type": "experimental data"
     }
 ]

@@ -309,10 +309,9 @@
         "component": "predictive modeling"
     },
     {
-        "name": "PanKBase",
+        "name": "RFA-DK-22-018",
         "project": "PanKBase",
         "title": "A Data and Administrative Coordinating Center for the Pancreas Knowledgebase Program (HIRN-PanKbase)",
-        "viewing_group": "IGVF",
         "status": "current",
         "component": "data coordination",
         "pis": [
